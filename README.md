@@ -1,6 +1,9 @@
 Softwarove-inzenyrstvi-1-ZS-2014-2015
 =====================================
 
-Hlavni vetev
+Vetev pro skupinu 
 
-Kazda skupinka si zalozi svoji
+Loukotková
+Bílek
+Brada
+Bobocký
