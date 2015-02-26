@@ -8,7 +8,7 @@ Kazda skupinka si zalozi svoji
 
 Skupinky:
 = Projekt leader (Goňa) +
-= Analytici (Šlegl, Korolkov, Bobocký) +
+= Analytici (Steiger, Korolkov, Bobocký) +
 = UX (Kozumplík) ++
 = Koderi (Vachler, Kovář, Horečný) +
 = Testeři (Fiala, Lachký, Vychodil) +
