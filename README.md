@@ -12,5 +12,5 @@ Skupinky:
 = UX (Kozumplík) ++
 = Koderi (Vachler, Kovář, Horečný) +
 = Testeři (Fiala, Lachký, Vychodil) +
-= Databáze (Hoch,Mařík)
-= Design (?,?,Brada)
+= Databáze (Hloch,Mařík)
+= Design (Loukotková,Bílek,Brada)
